@@ -1,0 +1,37 @@
+.title {
+    text-align: center;
+    font-family: verdana;
+    font-style: rgb(140, 68, 68);
+}
+
+div.header {
+    text-align: center;
+    font-family: verdana;
+    color: rgb(140, 68, 68);
+}
+
+body {
+    text-align: center;
+    margin: 80px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: aliceblue;
+}
+
+div.paragraph {
+    text-align: center;
+    font-family: verdana;
+}
+
+ol.myOL {
+    display: inline-block;
+    text-align: left;
+}
+
+div.videoheading {
+    font-family: Verdana;
+}
+
+div.anchor {
+    text-align: left;
+}
